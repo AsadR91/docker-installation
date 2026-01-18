@@ -99,16 +99,3 @@ docker run hello-world
 MIT License
 
 ````
-
----
-
-## 3️⃣ Suggested Repo Structure
-
-```text
-docker-install-script/
-├── install-docker.sh
-└── README.md
-````
-
-
-
