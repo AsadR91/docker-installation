@@ -33,13 +33,14 @@ This repository provides a simple and reliable shell script to install **Docker 
 ## 🚀 How to Use
 
 ### 1. Clone the Repository
+````
 
 ```bash
-git clone https://github.com/yourusername/docker-install-script.git
+git clone git@github.com:AsadR91/docker-installation.git
 cd docker-install-script
 ```
 
-````
+
 
 ### 2. Make the Script Executable
 
